@@ -1,0 +1,1 @@
+function searchNotes() { return true; }
